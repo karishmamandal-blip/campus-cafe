@@ -35,8 +35,8 @@
 }
 
 .p17-links a:hover {
-  color: #4338ca;
-  text-decoration: underline;
+  color: #4338ca !important;
+  text-decoration: underline !important;
 }
 .p17-links a:link {
   color: #374151;

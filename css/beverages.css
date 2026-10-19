@@ -6,6 +6,7 @@
   max-width: 420px;
   background: #e5e7eb;
 }
+
 .p03-card {
   width: 100%;
   padding: 24px;
@@ -18,10 +19,11 @@
   background: #fff7ed;
   border: 2px dashed #0369a1;
 }
+
 .p03-ribbon {
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 116%;
+  right: 21%;
   background: #0369a1;
   color: #ffffff;
   padding: 4px 12px;
@@ -29,8 +31,7 @@
 }
 
 .p03-tag-badge {
-  color: #ffffff
-  background: #0369a1;
+  color: #ffffff background: #0369a1;
   padding: 4px 12px;
   border-radius: 999px;
   font-weight: 700;
@@ -41,6 +42,7 @@
   border: 3px solid #0369a1;
   background: #fde68a;
 }
+
 .p03-frame img {
   width: 100%;
   height: auto;

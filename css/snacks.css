@@ -12,6 +12,7 @@
 .p05-dropwrap {
   position: relative;
   display: inline-block;
+  z-index: 2;
 }
 .p05-list {
   position: absolute;

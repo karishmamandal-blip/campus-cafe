@@ -37,7 +37,8 @@
 }
 
 .p09-tag-badge {
-  color: #ffffff
+  color: #ffffff;
+  font-style: italic;
   background: #854d0e;
   padding: 4px 12px;
   border-radius: 999px;

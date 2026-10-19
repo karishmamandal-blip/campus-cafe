@@ -11,9 +11,8 @@
   color: #ffffff;
   font-size: 1.3rem;
 }
-
-#p10-price {
-  color: #6b7280;
+.p10-price {
+  color: green;
   font-size: 1.6rem;
 }
 .p10-price.sale {

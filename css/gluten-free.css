@@ -15,6 +15,8 @@
 .p09-dropwrap {
   position: relative;
   display: inline-block;
+  z-index: 100;
+
 }
 .p09-list {
   position: absolute;
@@ -29,7 +31,7 @@
 }
 .p09-after {
   position: relative;
-  z-index: 1;
+  z-index: 0;
   margin-top: 8px;
   padding: 28px 20px;
   background: #854d0e;

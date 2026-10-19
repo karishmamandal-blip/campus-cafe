@@ -15,6 +15,7 @@
   padding: 28px;
   background: #fff7ed;
   border: 2px dashed #92400e;
+  position:relative;
 }
 .p07-ribbon {
   position: absolute;
